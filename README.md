@@ -1,2 +1,1 @@
-# writing_a_c_compiler
-Writing a C Compiler, by Nora Sandler
+# https://learning.oreilly.com/library/view/writing-a-c/9781098182229/xhtml/chapter1.xhtml#h1-11
